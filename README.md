@@ -1,4 +1,4 @@
-# 🧠 Hybrid Model for Detecting Alcoholism from EEG Signals 🤖
+# 🧠 Hybrid Model for Detecting Alcoholism from EEG Signals Using Deep Learning and Machine Learning 🤖
 ### *Deep Learning & Machine Learning Integration for Clinical Diagnosis*
 
 Este repositorio alberga el desarrollo de un **modelo híbrido** de inteligencia artificial para la detección objetiva del alcoholismo mediante señales de **electroencefalografía (EEG)**. El proyecto fue desarrollado bajo la modalidad de **artículo científico** para optar por el título profesional de **Ingeniero de Software**.
